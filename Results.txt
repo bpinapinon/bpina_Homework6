@@ -1,0 +1,1 @@
+The temperature scatter plot forms a "concave" curve centered around 15-20 degrees latitude. After looking on a map, this corresponds to the hemisphere above the equator, where it's summer. There doesn't appear to be a correlation between the other three variables (humidiy, cloudines, and wind speed) and latitude. 
